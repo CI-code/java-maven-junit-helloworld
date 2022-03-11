@@ -1,0 +1,14 @@
+<profiles>
+  <profile>
+    <id>aws-MavenEmptypackage</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>aws-MavenEmptypackage</id>
+        <url>https://aws-767289361924.d.codeartifact.us-east-1.amazonaws.com/maven/MavenEmptypackage/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
